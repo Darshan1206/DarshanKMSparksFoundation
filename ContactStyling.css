@@ -1,0 +1,24 @@
+body{
+ background-image: url("https://i2.wp.com/www.giveindia.org/blog/wp-content/uploads/deepalaya_desktop-2.jpg?fit=450%2C222&ssl=1");
+ background-color: #cccccc;
+ background-size: cover;
+ background-repeat: no-repeat;
+ color: white;
+}
+
+.all
+{
+	background-color: rgba(0,0,0,0.5);
+	text-align: center;
+	padding-top: 100px;
+	font-family: forte;
+	font-size: 30px;
+	line-height: 2.0;
+
+}
+
+div.logo
+{
+	padding-top: 20px;
+	padding-left: 20px;
+}
